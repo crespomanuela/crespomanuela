@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner_gato_github_2.jpeg" width="100%" style="max-height: 100px; object-fit: cover;" alt="Banner GitHub">
+</p>
 
 ## Olá, eu sou a Manuela Crespo! ✌️
 
