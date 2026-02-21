@@ -2,7 +2,7 @@
   <img src="banner_gato_github_copy.jpeg" width="100%" style="max-height: 250px; object-fit: cover;" alt="Banner GitHub">
 </p>
 
-## Olá, eu sou a Manuela Crespo! ✌️
+## Olá, eu sou a Manuela Crespo! ✌🏼
 
 ### Designer de Produto & Estudante de UX/UI e Front-End
 
