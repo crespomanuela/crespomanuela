@@ -13,9 +13,9 @@
 
 ###  Projetos Recentes 💻 📱 
 
-* **[Sorteador de Números](TEU_LINK_DA_VERCEL_AQUI)** 💻 (desktop)
+* **[Sorteador de Números](https://sorteadorgrunt-six-blush.vercel.app)** 💻 (desktop)
     * Projeto focado em automação de fluxo de trabalho utilizando **[Grunt](https://gruntjs.com/)**.
-* **[Hub de Links Personalizado](TEU_LINK_DA_VERCEL_AQUI)** 💻 📱 (desktop e mobile)
+* **[Hub de Links Personalizado](https://less-manuela-crespo.vercel.app/)** 💻 📱 (desktop e mobile)
     * Página responsiva de apresentação de projetos desenvolvida com o pré-processador **[LESS](https://lesscss.org/)**.
 
 ### Ferramentas  🛠
