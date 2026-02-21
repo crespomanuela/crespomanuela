@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/crespomanuela/crespomanuela/main/banner_gato_github.JPG" width="100%" alt="Banner GitHub">
+  <img src="https://raw.githubusercontent.com/crespomanuela/crespomanuela/main/banner_gato_github.JPG" width="650px"" alt="Banner GitHub">
 </p>
 
 ## Olá, eu sou a Manuela Crespo! ✌️
