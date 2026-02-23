@@ -19,6 +19,8 @@
     * Página responsiva de apresentação de projetos desenvolvida com o pré-processador **[LESS](https://lesscss.org/)**.
 * **[Conversor de Peso](https://exerciciogrunt-three.vercel.app/)** 💻 (desktop)
     * Projeto focado em automação de fluxo de trabalho e conversão de unidades utilizando **[Grunt](https://gruntjs.com/)**.
+* **[Landing Page](https://bemsassproject.vercel.app/)** 💻 (desktop)
+    * Desenvolvimento de uma interface desktop utilizando a metodologia **[BEM](https://getbem.com/)** para organização de classes e **[SASS](https://sass-lang.com/)** para a gestão de estilos e cores.
 
 ### Ferramentas  🛠
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Less](https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
