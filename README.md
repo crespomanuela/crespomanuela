@@ -22,10 +22,18 @@
       
 
 
-### Ferramentas  🛠
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Less](https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Grunt](https://img.shields.io/badge/Grunt-FAA918?style=for-the-badge&logo=grunt&logoColor=white)
 
+### Toolbox
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="40" />
+  <img src="https://cdn.simpleicons.org/autodesk/0696D7" alt="Fusion 360" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" alt="SASS" height="40" />
+  <img src="https://cdn.simpleicons.org/less/1D365D" alt="LESS" height="40" />
+  <img src="https://cdn.simpleicons.org/grunt/FBA919" alt="Grunt" height="40" />
+</div>
 <!--
 **crespomanuela/crespomanuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
