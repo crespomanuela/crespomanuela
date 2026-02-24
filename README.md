@@ -8,6 +8,8 @@
 - 🎓 Estudante de Design de Produto no IFSC (2026)
 - 💻 A frequentar o curso de UX/UI e Front-End na EBAC
 
+<hr>
+
 
 ###  Projetos Recentes 💻 📱 
 
@@ -20,14 +22,22 @@
 * **[Sorteador de Números](https://sorteadorgrunt-six-blush.vercel.app)** 💻 (desktop)
     * Projeto focado em automação de fluxo de trabalho utilizando **[Grunt](https://gruntjs.com/)**.
       
-
+<hr>
 
 
 ### Toolbox
 
+<hr>
+
 <div align="left">
+
+  #### Design
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="40" />
+
+  #### 3D
   <img src="https://cdn.simpleicons.org/autodesk/0696D7" alt="Fusion 360" height="40" />
+
+  #### Frontend
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" alt="SASS" height="40" />
