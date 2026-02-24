@@ -4,8 +4,6 @@
 
 ## Olá, eu sou a Manuela Crespo! ✌🏼
 
-### Designer de Produto & Estudante de UX/UI e Front-End
-
 - 📍 Florianópolis, SC
 - 🎓 Estudante de Design de Produto no IFSC (2026)
 - 💻 A frequentar o curso de UX/UI e Front-End na EBAC
@@ -22,8 +20,6 @@
 * **[Sorteador de Números](https://sorteadorgrunt-six-blush.vercel.app)** 💻 (desktop)
     * Projeto focado em automação de fluxo de trabalho utilizando **[Grunt](https://gruntjs.com/)**.
       
-* **[Conversor de Peso](https://exerciciogrunt-three.vercel.app/)** 💻 (desktop)
-    * Projeto focado em automação de fluxo de trabalho e conversão de unidades utilizando **[Grunt](https://gruntjs.com/)**.
 
 
 ### Ferramentas  🛠
