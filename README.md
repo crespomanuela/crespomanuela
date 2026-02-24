@@ -2,25 +2,23 @@
   <img src="banner.png" width="100%" style="max-height: 250px; object-fit: cover;" alt="Banner GitHub">
 </p>
 
-## Olá, eu sou a Manuela Crespo! ✌🏼
+## Hi, I'm Manuela Crespo! ✌🏼
 
-- 📍 Florianópolis, SC
-- 🎓 Estudante de Design de Produto no IFSC (2026)
-- 💻 A frequentar o curso de UX/UI e Front-End na EBAC
+- 📍 Florianópolis, Brazil
+- 🎓 Product Design Student at IFSC (Class of 2026)
+- 💻 Currently studying UX/UI Design & Front-End at EBAC
 
 <hr>
 
 
-###  Projetos Recentes 💻 📱 
+###  Recent Projects 💻 📱 
 
-* **[Hub de Links Personalizado](https://less-manuela-crespo.vercel.app/)** 💻 📱 (desktop e mobile)
-    * Página responsiva de apresentação de projetos desenvolvida com o pré-processador **[LESS](https://lesscss.org/)**.
+* **[Custom Link Hub](https://less-manuela-crespo.vercel.app/)** 💻 📱 (desktop e mobile)
+    * Responsive project showcase page developed using the **[LESS](https://lesscss.org/)**.
 
 * **[Landing Page](https://bemsassproject.vercel.app/)** 💻 (desktop)
-    * Desenvolvimento de uma interface desktop utilizando a metodologia **[BEM](https://getbem.com/)** para organização de classes e **[SASS](https://sass-lang.com/)** para a gestão de estilos e cores.
+    * Desktop interface development using **[BEM](https://getbem.com/)** methodology for class organization and **[SASS](https://sass-lang.com/)** for style and color management.
     
-* **[Sorteador de Números](https://sorteadorgrunt-six-blush.vercel.app)** 💻 (desktop)
-    * Projeto focado em automação de fluxo de trabalho utilizando **[Grunt](https://gruntjs.com/)**.
       
 <hr>
 
