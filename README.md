@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gatinho.JPG" width="100%" style="max-height: 250px; object-fit: cover;" alt="Banner GitHub">
+  <img src="banner.png" width="100%" style="max-height: 250px; object-fit: cover;" alt="Banner GitHub">
 </p>
 
 ## Olá, eu sou a Manuela Crespo! ✌🏼
