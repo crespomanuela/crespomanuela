@@ -11,12 +11,16 @@
 <hr>
 
 
-###  Recent Projects 💻 📱 
+###  Recent Projects 
 
-* **[Custom Link Hub](https://less-manuela-crespo.vercel.app/)** 💻 📱 (desktop e mobile)
+* **[Disney+ Clone](https://disneyplusclone-brown.vercel.app/)** 💻📱
+
+    * This project is a responsive landing page inspired by an older version of the Disney+ website, developed using **[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)** for semantic structure and **[SASS (SCSS)](https://sass-lang.com/)** for advanced styling. Following the **[BEM Methodology](https://getbem.com/)** to ensure a clean and organized CSS architecture. The entire workflow is automated with **[Gulp.js](https://gulpjs.com/)**, which handles SCSS compilation and asset optimization, while **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** manages interactive components such as tab navigation, all hosted and deployed on **[Vercel](https://vercel.com/)** for a seamless mobile and desktop experience.
+
+* **[Custom Link Hub](https://less-manuela-crespo.vercel.app/)** 💻 📱
     * Responsive project showcase page developed using the **[LESS](https://lesscss.org/)**.
 
-* **[Landing Page](https://bemsassproject.vercel.app/)** 💻 (desktop)
+* **[Landing Page](https://bemsassproject.vercel.app/)** 💻
     * Desktop interface development using **[BEM](https://getbem.com/)** methodology for class organization and **[SASS](https://sass-lang.com/)** for style and color management.
     
       
