@@ -13,7 +13,7 @@
 
 ###  Recent Projects 
 
-* **[Star Wars](https://star-wars-landing-page-n866.vercel.app)** 💻📱
+* **[Star Wars](https://star-wars-landing-page-m3z4.vercel.app)** 💻📱
 
   * This project was developed using the **[SMACSS ](https://smacss.com)** (Scalable and Modular Architecture for CSS) methodology to ensure a maintainable and organized codebase, combined with the **[BEM Methodology](https://getbem.com/)**  naming convention to create clear, decoupled, reusable styles. Using **[SASS (SCSS)](https://sass-lang.com/)**, I applied advanced features such as nesting, variables, and modules to streamline the development of a  Star Wars-themed interface. A key highlight of the project is the Millennium Falcon's cinematic movement, achieved with the modern [CSS](https://www.w3schools.com/cssref/css_pr_offset-path.php) offset-path property. This let me define a specific geometric trajectory for the ship, creating a dynamic flight effect beyond traditional linear transformations. To manage the workflow, I implemented a custom **[Gulp.js](https://gulpjs.com/)** automation script in gulpfile.js that compiles stylesheets and compresses files heavily. This ensures all assets are optimized for high performance and fast loading when deployed on **[Vercel](https://vercel.com/)**.
 
